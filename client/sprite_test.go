@@ -1,11 +1,10 @@
 // +build test
 
-package graphics
+package client
 
 import (
-	"testing"
-
 	"image/color"
+	"testing"
 	"unsafe"
 
 	. "github.com/smartystreets/goconvey/convey"

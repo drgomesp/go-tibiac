@@ -1,4 +1,4 @@
-package graphics
+package client
 
 import (
 	"image/color"
